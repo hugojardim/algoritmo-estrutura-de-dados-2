@@ -1,0 +1,7 @@
+# ninja log v5
+5	127	7332823082341480	CMakeFiles/aed2.dir/main.c.obj	8a40d439ebefa292
+117	215	7332830443615815	aed2.exe	8a3a34977c600ca6
+0	138	7332837481924780	build.ninja	3a7ba674ecacfd39
+3	113	7332830442650564	CMakeFiles/aed2.dir/matriz/matrizAlunos.c.obj	b817870f91ac2dfd
+8	203	7332530532129575	CMakeFiles/aed2.dir/matrizAlunos.c.obj	8991ab299dff7727
+8	117	7332830442680734	CMakeFiles/aed2.dir/duplamenteEncadeada/listaDuplamenteEncadeadaCircular.c.obj	3812e7ee1ab089a2
